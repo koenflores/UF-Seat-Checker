@@ -1,4 +1,4 @@
-#Description:
+# Description:
 
 This code notifies the user (via gmail) if there is a change in the number of seats on One.uf for course registration. The current code is designed to search for the inputed course during Fall 2019 (see notes below on how to edit) however, it is not course section specific. 
 Inspiration largely from (https://github.com/Rolstenhouse/uf_api) UF's unofficial API.
@@ -12,7 +12,7 @@ Inspiration largely from (https://github.com/Rolstenhouse/uf_api) UF's unofficia
 	b. `pip install tkinter`
 
 
-#Notes: 
+# Notes:
 
 1) I tried to compile this into an exe using py2exe but was unsuccessful, sorry.
 2) Changing semester search: 
